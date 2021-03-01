@@ -1,0 +1,159 @@
+div {
+    background-color: palevioletred;
+    border: 2px solid black;
+    margin: 10px;
+    font-size: 30px;
+  }
+  
+  div {
+    position: sticky;
+    top: 37px;
+  }
+  li{
+    list-style-type: none;  
+  }
+  nav{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    border: 2px solid black;
+    width: 97.6vw;
+    background-color: orange;
+    position: fixed;
+    top:0px
+  }
+  .dis{
+    padding: 15px;
+  }
+  td.a::before {
+    /* content: "\2706"; */
+    content: "\24B6";
+    color: orange;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.b::before {
+    /* content: "\2706"; */
+    content: "\24B7";
+    color: blue;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.c::before {
+    /* content: "\2706"; */
+    content: "\24B8";
+    color: olivedrab;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.d::before {
+    /* content: "\2706"; */
+    content: "\24B9";
+    color: red;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.e::before {
+    /* content: "\2706"; */
+    content: "\24BA";
+    color: orange;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.f::before {
+    /* content: "\2706"; */
+    content: "\24BB";
+    color: blue;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.g::before {
+    /* content: "\2706"; */
+    content: "\24BC";
+    color: olivedrab;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.h::before {
+    /* content: "\2706"; */
+    content: "\24BD";
+    color: red;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.i::before {
+    /* content: "\2706"; */
+    content: "\24BE";
+    color: orange;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.j::before {
+    /* content: "\2706"; */
+    content: "\24BF";
+    color: blue;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.k::before {
+    /* content: "\2706"; */
+    content: "\24C0";
+    color: olivedrab;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.m::before {
+    /* content: "\2706"; */
+    content: "\24C2";
+    color: red;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.p::before {
+    /* content: "\2706"; */
+    content: "\24C5";
+    color: orange;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.r::before {
+    /* content: "\2706"; */
+    content: "\24C7";
+    color: blue;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.s::before {
+    /* content: "\2706"; */
+    content: "\24C8";
+    color: olivedrab;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.u::before {
+    /* content: "\2706"; */
+    content: "\24CA";
+    color: red;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.v::before {
+    /* content: "\2706"; */
+    content: "\24CB";
+    color: orange;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.w::before {
+    /* content: "\2706"; */
+    content: "\24CC";
+    color: blue;
+    font-size: 40px;
+    font-weight: bolder;
+  }
+  td.symbol::before {
+    /* content: "\2706"; */
+    content: "\1F4DE";
+    font-size: 40px;
+    
+  }
